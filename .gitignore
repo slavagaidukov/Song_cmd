@@ -1,0 +1,6 @@
+#db
+*.db
+#log
+*.log
+#ignore all the files in the bin folder
+bin/
